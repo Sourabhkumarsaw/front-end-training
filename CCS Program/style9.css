@@ -1,0 +1,25 @@
+.parent h1{
+    color: red;
+    font-size: 24px;
+}
+.parent div{
+   background-color: lightblue;
+    font-size: 18px;
+}
+.parent p{
+    color: rgb(92, 10, 224);
+    font-size: 16px;
+}
+.parent div li{
+    color: green;
+    font-size: 14px;
+}
+.parent div li a{
+    color: orange;
+    font-size: 12px;
+}
+.parent div h2{
+    color: purple;
+    font-size: 20px;
+}
+

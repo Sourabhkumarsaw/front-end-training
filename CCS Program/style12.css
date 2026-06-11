@@ -1,0 +1,8 @@
+
+h1 ~ p {
+    color: rgb(0, 0, 185);
+}
+
+h1 ~ h3 {
+    color: red;
+}

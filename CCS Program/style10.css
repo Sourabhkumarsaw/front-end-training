@@ -1,0 +1,12 @@
+.container {
+    background-color: #f0f0f0;
+}
+
+.container > .box {
+    font-size: 40px;
+    color: #fc0b0b;
+}
+div > p {
+    font-size: 20px;
+    color: #0bfc0b;
+}

@@ -1,0 +1,20 @@
+ body {
+    background-color: grey;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: orange;
+}
+h1 {
+    color: red;
+}
+.paragraph {
+    color: rgb(32, 230, 230);
+    font-size: 18px;
+    
+}
+#list1 {
+    color: rgb(18, 233, 11);
+    font-size: 20px;
+   background-color: rgb(212, 25, 25);
+}
