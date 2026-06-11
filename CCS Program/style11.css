@@ -1,0 +1,11 @@
+input[type="text"]{
+    width: 100%;
+    box-sizing: border-box;
+    color: red;
+}
+label[for="email"]{
+    color: blue;
+}
+label[for="password"]{
+    color: green;
+}

@@ -1,0 +1,8 @@
+.hover-btn:hover {
+   background-color: blue;
+}
+P::first-letter {
+ font-size: 30px;
+ color: red;
+ font-weight: bold;
+}
